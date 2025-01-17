@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Sigma web development"
+		},
+		{
+			"path": "../CBNST"
+		},
+		{
+			"path": "../college python"
+		}
+	],
+	"settings": {
+		"workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+		"workbench.preferredLightColorTheme": "Visual Studio Dark"
+	}
+}

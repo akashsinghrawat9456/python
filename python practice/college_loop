@@ -1,0 +1,30 @@
+# # a=int(input("enter the number"))
+# # for i in range(1,11):
+# #     print(a,"*",i,"=",a*i)
+# #     if i==5:
+# #         break
+# # for j in range(1,11,3):
+# #     print(j)
+# # else:
+# #    print(" finished already")
+# # adj=(1,2,3,4)
+# # fruits=(3,5,2,6)
+# # for i in adj:
+# #     for y in fruits:
+# #         print(i,y)
+
+# count=0
+# while (count<3):
+#     count=count+1
+#     print("hello")
+# else:
+#     print("by")
+
+
+
+
+# palindrome
+
+
+
+n=(input("enter the number"))

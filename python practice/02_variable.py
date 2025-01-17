@@ -1,0 +1,2 @@
+qq=input("enter name") 
+
